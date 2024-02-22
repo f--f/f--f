@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi! 👋 I'm Fred.
+
+I'm a generalist data scientist/software engineer with a background in engineering & applied science. I use GitHub primarily to host personal projects that I've made for fun over the years and to bookmark repositories that I think are neat. (Some of my past work involving medical imaging is also published to GitHub under the [STTARR](https://github.com/STTARR) organization.) 
+
+#### Some repositories of interest:
+- [plasma-cell-detection](https://github.com/STTARR/plasma-cell-detection): Convolutional neural network inference & web application code associated with the paper [*Deep learning accurately quantifies plasma cell percentages on CD138-stained bone marrow samples (2022)*](https://www.sciencedirect.com/science/article/pii/S2153353922000116).
+- [gaitkeeper](https://github.com/f--f/gaitkeeper): An attempt to create a gait (walk) authentication model and inference using smartphone sensors, developed as part of the [Insight Data Science Fellowship](https://www.insightdatascience.com/).
+- [codenames-ai](https://github.com/f--f/codenames-ai): Leveraging large language models to play the board game Codenames, demonstrating how they can integrate into a larger software project and reasoning about model evaluation (and being fun!).
+
+See [LinkedIn](https://www.linkedin.com/in/fred-fu/) for my professional background.
 
 <!--
 **f--f/f--f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
